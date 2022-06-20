@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/micro-service-cloud-api/micro-service-cloud-api.iml" filepath="$PROJECT_DIR$/micro-service-cloud-api/micro-service-cloud-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-cloud-config-center-3344/micro-service-cloud-config-center-3344.iml" filepath="$PROJECT_DIR$/micro-service-cloud-config-center-3344/micro-service-cloud-config-center-3344.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/micro-service-cloud-consumer-dept-80.iml" filepath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-80/micro-service-cloud-consumer-dept-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-cloud-consumer-dept-feign/micro-service-cloud-consumer-dept-feign.iml" filepath="$PROJECT_DIR$/micro-service-cloud-consumer-dept-feign/micro-service-cloud-consumer-dept-feign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-cloud-eureka-7001/micro-service-cloud-eureka-7001.iml" filepath="$PROJECT_DIR$/micro-service-cloud-eureka-7001/micro-service-cloud-eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-cloud-eureka-7002/micro-service-cloud-eureka-7002.iml" filepath="$PROJECT_DIR$/micro-service-cloud-eureka-7002/micro-service-cloud-eureka-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-cloud-eureka-7003/micro-service-cloud-eureka-7003.iml" filepath="$PROJECT_DIR$/micro-service-cloud-eureka-7003/micro-service-cloud-eureka-7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-cloud-gateway-9527/micro-service-cloud-gateway-9527.iml" filepath="$PROJECT_DIR$/micro-service-cloud-gateway-9527/micro-service-cloud-gateway-9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-cloud-provider-dept-8001/micro-service-cloud-provider-dept-8001.iml" filepath="$PROJECT_DIR$/micro-service-cloud-provider-dept-8001/micro-service-cloud-provider-dept-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-cloud-provider-dept-8002/micro-service-cloud-provider-dept-8002.iml" filepath="$PROJECT_DIR$/micro-service-cloud-provider-dept-8002/micro-service-cloud-provider-dept-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/micro-service-cloud-provider-dept-hystrix-8004.iml" filepath="$PROJECT_DIR$/micro-service-cloud-provider-dept-hystrix-8004/micro-service-cloud-provider-dept-hystrix-8004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-demo.iml" filepath="$PROJECT_DIR$/spring-cloud-demo.iml" />
+    </modules>
+  </component>
+</project>
